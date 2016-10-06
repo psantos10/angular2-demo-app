@@ -2,3 +2,4 @@ typings
 dist/**/*.js
 dist/**/*.map
 node_modules
+*.log
